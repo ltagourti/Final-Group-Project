@@ -1,1 +1,2 @@
 # Final-Group-Project
+Create an electronic report in English with a maximum of 2000 words (excluding citations) using Jupyter. The report should include the posed question, conducted analysis, and derived conclusion. Only one team member needs to submit this report. It is not required to include all tasks completed by every group member in their individual assignments; tailor the final report to the collective group's work. Make sure to reach a consensus among all team members on the final content of the report. If needed, consult your TA and Instructor for further guidance.
